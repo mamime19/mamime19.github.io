@@ -80,7 +80,7 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mamime19.github.io/about/</guid>
-      <description></description>
+      <description>まみめの実績 まみめの今までやってきたことについて書くページです。</description>
     </item>
     
     <item>
@@ -94,16 +94,6 @@ Please feel free to contact us, our customer service center is working for you 2
     </item>
     
     <item>
-      <title>FAQ</title>
-      <link>https://mamime19.github.io/faq/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mamime19.github.io/faq/</guid>
-      <description>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
-1. WHAT TO DO IF I HAVE STILL NOT RECEIVED THE ORDER? Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.</description>
-    </item>
-    
-    <item>
       <title>Migrate from Jekyll</title>
       <link>https://mamime19.github.io/blog/1/01/01/migrate-from-jekyll/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -112,6 +102,15 @@ Please feel free to contact us, our customer service center is working for you 2
       <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
 ▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png should become
 ▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+    </item>
+    
+    <item>
+      <title>works</title>
+      <link>https://mamime19.github.io/works/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mamime19.github.io/works/</guid>
+      <description>まみめの作品 まみめが作った作品を公開しています。</description>
     </item>
     
   </channel>
