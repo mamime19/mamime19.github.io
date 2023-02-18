@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mamime on まみめのホームページ</title>
+    <link>https://mamime19.github.io/authors/mamime/</link>
+    <description>Recent content in mamime on まみめのホームページ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Fri, 17 Feb 2023 21:29:20 +0200</lastBuildDate><atom:link href="https://mamime19.github.io/authors/mamime/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>初めての投稿</title>
+      <link>https://mamime19.github.io/blog/2023/02/17/my-first-post/</link>
+      <pubDate>Fri, 17 Feb 2023 21:29:20 +0200</pubDate>
+      
+      <guid>https://mamime19.github.io/blog/2023/02/17/my-first-post/</guid>
+      <description>はじめての投稿 自己紹介サイトを開設しました。 Github PagesとHugoを使って自己紹介サイトを作成しました。
+今後記事等を載せていきたいと思っています。
+何を載せるか 主にプログラミング言語を使って作品等を載せていきたいと思っています。
+技術関連の記事も書けたらいいなあ。</description>
+    </item>
+    
+  </channel>
+</rss>

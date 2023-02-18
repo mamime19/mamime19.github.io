@@ -6,63 +6,17 @@
     <description>Recent content on まみめのホームページ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Sun, 01 Aug 2021 21:29:20 +0200</lastBuildDate><atom:link href="https://mamime19.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Feb 2023 21:29:20 +0200</lastBuildDate><atom:link href="https://mamime19.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Categories Post</title>
-      <link>https://mamime19.github.io/blog/2021/08/01/categories-post/</link>
-      <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
+      <title>初めての投稿</title>
+      <link>https://mamime19.github.io/blog/2023/02/17/my-first-post/</link>
+      <pubDate>Fri, 17 Feb 2023 21:29:20 +0200</pubDate>
       
-      <guid>https://mamime19.github.io/blog/2021/08/01/categories-post/</guid>
-      <description>I&amp;rsquo;m a post with multiple categories in the frontmatter:
-categories = [&amp;quot;programming&amp;quot;,&amp;quot;lorem&amp;quot;,&amp;quot;pseudo&amp;quot;] Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus. Pellentesque sed tempus risus. Proin id hendrerit ante. Vestibulum vitae urna ut mauris ultricies dignissim.</description>
-    </item>
-    
-    <item>
-      <title>Linked post</title>
-      <link>https://mamime19.github.io/blog/2015/10/02/linked-post/</link>
-      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
-      
-      <guid>https://mamime19.github.io/blog/2015/10/02/linked-post/</guid>
-      <description>I&amp;rsquo;m a linked post in the menu. You can add other posts by adding the following line to the frontmatter:
-menu = &amp;quot;main&amp;quot; Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus.</description>
-    </item>
-    
-    <item>
-      <title>Go is for lovers</title>
-      <link>https://mamime19.github.io/blog/2015/09/17/go-is-for-lovers/</link>
-      <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
-      
-      <guid>https://mamime19.github.io/blog/2015/09/17/go-is-for-lovers/</guid>
-      <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
-This document is a brief primer on using go templates.</description>
-    </item>
-    
-    <item>
-      <title>Hugo is for lovers</title>
-      <link>https://mamime19.github.io/blog/2015/08/03/hugo-is-for-lovers/</link>
-      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
-      
-      <guid>https://mamime19.github.io/blog/2015/08/03/hugo-is-for-lovers/</guid>
-      <description>This is the summary Goto &lt;a href=&#34;https://github.com/spf13/hugo/releases&#34;&gt;hugo releases&lt;/a&gt; and download the appropriate version for your os and architecture. Save it somewhere specific as we will be using it in the next step. More complete instructions are available at &lt;a href=&#34;https://mamime19.github.io/overview/installing/&#34;&gt;installing hugo&lt;/a&gt;</description>
-    </item>
-    
-    <item>
-      <title>Creating a new theme</title>
-      <link>https://mamime19.github.io/blog/2015/06/24/creating-a-new-theme/</link>
-      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
-      
-      <guid>https://mamime19.github.io/blog/2015/06/24/creating-a-new-theme/</guid>
-      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
-We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://mamime19.github.io/blog/1/01/01/my-first-post/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mamime19.github.io/blog/1/01/01/my-first-post/</guid>
-      <description>title: &amp;ldquo;my-first-post&amp;rdquo; date: 2019-04-25T01:49:06+09:00 draft: false</description>
+      <guid>https://mamime19.github.io/blog/2023/02/17/my-first-post/</guid>
+      <description>はじめての投稿 自己紹介サイトを開設しました。 Github PagesとHugoを使って自己紹介サイトを作成しました。
+今後記事等を載せていきたいと思っています。
+何を載せるか 主にプログラミング言語を使って作品等を載せていきたいと思っています。
+技術関連の記事も書けたらいいなあ。</description>
     </item>
     
     <item>
@@ -80,7 +34,12 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mamime19.github.io/about/</guid>
-      <description>まみめの実績 まみめの今までやってきたことについて書くページです。</description>
+      <description>やってきたことなど まみめの今までやってきたことについて書くページです。
+プログラミング歴 2017年くらいからプログラミング言語C++を用いてWindowsゲームを作成していました。 Windowsゲームは主にDXライブラリなどのライブラリを用いて作っています。
+作った作品は本ページのWorksの方から見ることができるのでぜひご覧ください。
+それ以外にも、AtCoderなどの競技プログラミングのコンテストなどに参加していました。
+現在はレートは水色コーダーで以下のグラフの通りです。 最近やっていること 最近はRuby on Railsなどのフレームワークを用いたWeb開発にハマっています。
+そのうちこのページに載せていきたい。</description>
     </item>
     
     <item>
@@ -89,19 +48,7 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mamime19.github.io/contact/</guid>
-      <description>We are here to help you Are you curious about something? Do you have some kind of problem with our products? As am hastily invited settled at limited civilly fortune me. Really spring in extent an by. Judge but built gay party world. Of so am he remember although required. Bachelor unpacked be advanced at. Confined in declared marianne is vicinity.
-Please feel free to contact us, our customer service center is working for you 24/7.</description>
-    </item>
-    
-    <item>
-      <title>Migrate from Jekyll</title>
-      <link>https://mamime19.github.io/blog/1/01/01/migrate-from-jekyll/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mamime19.github.io/blog/1/01/01/migrate-from-jekyll/</guid>
-      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
-▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png should become
-▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+      <description>お問い合わせ お問い合わせはこちらのページからお願いします。</description>
     </item>
     
     <item>
@@ -110,7 +57,21 @@ Please feel free to contact us, our customer service center is working for you 2
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mamime19.github.io/works/</guid>
-      <description>まみめの作品 まみめが作った作品を公開しています。</description>
+      <description>mamimeの作品 mamimeが作った作品を公開しています。
+セキュリティ上の観点からデータの配布等は特に考えていません。
+DXライブラリで作ったゲーム DXライブラリは山田巧氏が作成したDirectXを下敷きにしたライブラリです。
+以下のサイトを参考にしながらプログラムを書いていました。
+https://dixq.net/g/ TARGET C++を用いて2017年に作成されました。
+2D型のシューティングゲームです。
+的を当てるとスコアが得られ時間内にどれくらいのスコアを得られるかを競います。
+私が始めて作成したゲームであり、つたない実装の中で苦労してプログラムを書いていたことをよく覚えています。 Protect Cheese C++を用いて2018年に作成されました。 マウスを使ってネズミを除去し、チーズを除去するというゲームです。 どれくらい長い間チーズを守り切れるかというタイムスコアを競うゲームになります。 始めてランキングシステムを導入したゲームです。ネズミを画面の中心部分に集めるときに三角関数を使ったのが印象に残りました。 Hungry Magnet C++を用いて2018年に作成されました。
+マグネットを動かして爆弾をよけながら食べ物を集めるゲームです。
+どれくらいスコアを稼げるか競うゲームになります。 Protect Cheeseと基本的な実装方法はあまり変わりませんでした。
+今回の場合はランキングに自分の名前が入力できるようになったのがポイントです SOUND NEXUS C++を用いて2019年に作成しました。
+過去最大のゲーム作品です。
+流れてくるノーツを押してタイミングの正確さを競ういわゆる音楽リズムゲームです。 音楽の再生周りの実装が非常に苦労しました。
+また、譜面作成にたくさんの時間をかけた覚えがあります。 Ruby on Railsを用いた作品 現在作成中です！
+ご期待ください！</description>
     </item>
     
   </channel>
