@@ -6,7 +6,25 @@
     <description>Recent content in mamime on まみめのホームページ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Wed, 08 Mar 2023 15:54:39 +0900</lastBuildDate><atom:link href="https://mamime19.github.io/authors/mamime/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 02 Sep 2023 17:05:44 +0900</lastBuildDate><atom:link href="https://mamime19.github.io/authors/mamime/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>アプリ「中二病天気」-プライバシーポリシー</title>
+      <link>https://mamime19.github.io/blog/2023/09/02/privacy1/</link>
+      <pubDate>Sat, 02 Sep 2023 17:05:44 +0900</pubDate>
+      
+      <guid>https://mamime19.github.io/blog/2023/09/02/privacy1/</guid>
+      <description>『中二病天気』のプライバシーポリシー（日本語） ネットワークへの接続情報 天候の情報を取得するためにネットワークの接続情報を取得しています。 その</description>
+    </item>
+    
+    <item>
+      <title>アプリ「中二病天気」-プライバシーポリシー</title>
+      <link>https://mamime19.github.io/posts/privacy1/</link>
+      <pubDate>Sat, 02 Sep 2023 17:05:44 +0900</pubDate>
+      
+      <guid>https://mamime19.github.io/posts/privacy1/</guid>
+      <description>『中二病天気』のプライバシーポリシー ネットワークへの接続</description>
+    </item>
+    
     <item>
       <title>Rails初心者がWebアプリを1ヶ月で作った話</title>
       <link>https://mamime19.github.io/blog/2023/03/08/webapp2/</link>

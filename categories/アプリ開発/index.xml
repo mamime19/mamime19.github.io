@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>アプリ開発 on まみめのホームページ</title>
+    <link>https://mamime19.github.io/categories/%E3%82%A2%E3%83%97%E3%83%AA%E9%96%8B%E7%99%BA/</link>
+    <description>Recent content in アプリ開発 on まみめのホームページ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Sat, 02 Sep 2023 17:05:44 +0900</lastBuildDate><atom:link href="https://mamime19.github.io/categories/%E3%82%A2%E3%83%97%E3%83%AA%E9%96%8B%E7%99%BA/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>アプリ「中二病天気」-プライバシーポリシー</title>
+      <link>https://mamime19.github.io/blog/2023/09/02/privacy1/</link>
+      <pubDate>Sat, 02 Sep 2023 17:05:44 +0900</pubDate>
+      
+      <guid>https://mamime19.github.io/blog/2023/09/02/privacy1/</guid>
+      <description>『中二病天気』のプライバシーポリシー（日本語） ネットワークへの接続情報 天候の情報を取得するためにネットワークの接続情報を取得しています。 その</description>
+    </item>
+    
+    <item>
+      <title>アプリ「中二病天気」-プライバシーポリシー</title>
+      <link>https://mamime19.github.io/posts/privacy1/</link>
+      <pubDate>Sat, 02 Sep 2023 17:05:44 +0900</pubDate>
+      
+      <guid>https://mamime19.github.io/posts/privacy1/</guid>
+      <description>『中二病天気』のプライバシーポリシー ネットワークへの接続</description>
+    </item>
+    
+  </channel>
+</rss>
